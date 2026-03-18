@@ -1,8 +1,7 @@
-# Hi :computer:
+# Hi
 
-I am Cristian Michele Guarriello currently working in a web agency and continuously studying ```Computer Science``` looking for new things to do and open my mind to the software world. <br>
+I am Cristian Michele Guarriello.<br>
 I approached the tech world for the first time back into 2014 and from there I knew I found what I was gonna do for the rest of my life. 
-<p align="center">Code :yum:.</p> 
 
 <hr/>
 
@@ -11,11 +10,7 @@ I approached the tech world for the first time back into 2014 and from there I k
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarriellocristianmichele&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
 </div>
 
-## :tophat: Job Experiences: 
-I started my carreer along with [@cristianguarriellomichele](https://github.com/guarriellocristianmichele) back in 2019 as a freelancer web developer. <br>
-Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blank"> lci-agency (Lombardi Consulenza Informatica) </a> as a senior web developer. 
-
-## :zero::one: Languages:
+## Languages:
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
@@ -34,7 +29,7 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
   <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
 </p>
 
-## 🛠️ Tools:
+## Tools:
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-white?logo=Windows&style=for-the-badge&logoColor=00A4EF" height="25px"/>
@@ -43,11 +38,11 @@ Since 2021 I have been working at <a href="https://lci-agency.it/" target="_blan
   <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-purple?style=for-the-badge&logo=jetbrains" height="25px"/>
   <img alt="WHM" src="https://img.shields.io/badge/WHM-white?style=for-the-badge&logo=cpanel" height="25px" />
   <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-blue?style=for-the-badge&logo=virtualbox" height="25px" />
+  [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 </p>
 
 ## 🛠️ Frameworks:
 <p>
   <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
+  <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=laravel" height="25px"/>
 </p>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
