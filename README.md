@@ -1,48 +1,54 @@
 # Hi
-
-I am Cristian Michele Guarriello.<br>
-I approached the tech world for the first time back into 2014 and from there I knew I found what I was gonna do for the rest of my life. 
+I'm Cristian Michele Guarriello 👋.<br>
+I discovered technology back in 2014 — and from that moment, I knew I had found what I wanted to do for the rest of my life.
 
 <hr/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Bold&size=19&pause=1000&color=CD7900&width=1080&height=79&lines=%E2%80%9CThe+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do.%E2%80%9D+%E2%80%94+Steve+Jobs)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guarriellocristianmichele&count_private=true&show_icons=true&theme=dark&layout=compact" style="height: 140px;"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guarriellocristianmichele&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact&include_all_commits=true" style="height: 140px;"/>
 </div>
 
-## Languages:
+## Languages & Libraries:
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
-  <img alt="Java" src="https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=java" height="25px"/>
-
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-
-  <img alt="Php" src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E%22" height="25px"/>
-  <img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-323330?style=for-the-badge&logo=phpmyadmin&logoColor=F7DF1E%22" height="25px"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" height="25px"/>
-  <img alt="MySQLWorkbench" src="https://img.shields.io/badge/MySQLWorkBench-white?style=for-the-badge&logo=mysql&logoColor=white%22" height="25px" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="25px"/>
+  <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" height="25px"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"  height="25px"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="25px"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="25px"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" height="25px"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="25px"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="25px"/>
+  <img alt="SASS" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" height="25px"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="25px"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="25px"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="25px"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" height="25px"/>
+  <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" height="25px"/>
 </p>
 
-## Tools:
+## OS and Tools I use:
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" height="25px"/>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-white?logo=Windows&style=for-the-badge&logoColor=00A4EF" height="25px"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" height="25px"/>
-  <img alt="IntellJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=jetbrains" height="25px"/>
-  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-purple?style=for-the-badge&logo=jetbrains" height="25px"/>
-  <img alt="WHM" src="https://img.shields.io/badge/WHM-white?style=for-the-badge&logo=cpanel" height="25px" />
-  <img alt="Virtual Box" src="https://img.shields.io/badge/Virtual%20Box-blue?style=for-the-badge&logo=virtualbox" height="25px" />
-  [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25px"/>
+  <img alt="Mac OS" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" height="25px"/>
+  <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" height="25px"/>
+  <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="25px"/>
+  <img alt="IntellJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" height="25px"/>
+  <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff" height="25px"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" height="25px"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25px"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="25px"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" height="25px" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="25px" />
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff" height="25px" />
 </p>
 
 ## 🛠️ Frameworks:
 <p>
   <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=codeigniter" height="25px"/>
-  <img alt="Code Igniter" src="https://img.shields.io/badge/CodeIgniter-white?style=for-the-badge&logo=laravel" height="25px"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" height="25px"/>
 </p>
